@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//修改test.cpp文件
 class Point
 {
 private:
